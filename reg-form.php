@@ -174,7 +174,7 @@ if(isset($_REQUEST["submit"]))
 					<input type="submit" name ="submit" value="Submit"> 
 					<input type="reset" value= "Reset">
 				</td>
-				<!-- <td><button><a href="register.php"> SHOW INFO </button></a> </td> -->
+				
 			</tr>
         </table>
 
