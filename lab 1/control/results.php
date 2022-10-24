@@ -51,7 +51,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST")
     }
 
     //ID validation
-   //preg-m this formate 19-41680-3
+   
     if(empty($_REQUEST["id"]) || !preg_match("/^[0-9]{2}-[0-9]{5}-[0-9]{1}$/",$_REQUEST["id"]))
     {
         $id= "you must enter ID";
@@ -62,7 +62,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST")
     }
 
     //number validation
-    //perg-m this formate 01******** 
+    
     if(empty($_REQUEST["number"]) || !preg_match("/^01[0-9]{9}$/",$_REQUEST["number"]))
     {
         $number= "you must enter number";
