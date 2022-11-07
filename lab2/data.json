@@ -1,0 +1,42 @@
+[
+    {
+        "fname": "atik",
+        "birthday": "1999-12-12",
+        "email": "atik@gmail.com",
+        "number": "01123456789",
+        "id": "19-41680-3",
+        "gender": "male"
+    },
+    {
+        "fname": "atik",
+        "birthday": "1999-12-12",
+        "email": "atik@gmail.com",
+        "number": "01123456789",
+        "id": "19-41680-3",
+        "gender": "male"
+    },
+    {
+        "fname": "atik",
+        "birthday": "1999-12-12",
+        "email": "atik@gmail.com",
+        "number": "01323456789",
+        "id": "19-12345-2",
+        "gender": "male"
+    },
+    {
+        "fname": "atik",
+        "birthday": "1988-12-12",
+        "email": "atik@gmail.com",
+        "number": "01312356789",
+        "id": "12-12345-7",
+        "gender": "other"
+    },
+    {
+        "fname": "rony",
+        "birthday": "1999-12-12",
+        "email": "ron@g.com",
+        "number": "01987654321",
+        "id": "19-12385-3",
+        "gender": "male"
+    }
+]
