@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "rahim",
+        "Age": "333",
+        "Gender": "male"
+    },
+    {
+        "Name": "alice",
+        "Age": "33",
+        "Gender": "male"
+    },
+    {
+        "Name": "abcdef",
+        "Age": "12",
+        "Gender": "male"
+    },
+    {
+        "Name": "ytreww",
+        "Age": "32",
+        "Gender": "male",
+        "Image": "..\/uploads\/ytreww.jpg"
+    },
+    {
+        "Name": "rqwwqeqweq",
+        "Age": "32",
+        "Gender": "male",
+        "Image": "..\/uploads\/rqwwqeqweq.jpg"
+    }
+]
