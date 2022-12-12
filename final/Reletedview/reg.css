@@ -1,0 +1,145 @@
+.form-center{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  opacity: 1;
+  border-radius: 10%;
+}
+
+body {
+  background: #76b852; 
+  background: rgb(141,194,111);
+  background: linear-gradient(90deg, rgba(141,194,111,1) 0%, rgba(118,184,82,1) 50%);
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;  
+
+      
+}
+
+table
+{
+  position: center;
+  border-collapse: collapse;
+  width: 100%;
+  /*background-color: #0da86d;*/
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 20px;
+  text-align: left;
+  border-radius: 10%;
+  
+}
+
+.login {
+  position: absolute;
+  background-color: #0a62aa;
+  color: black;
+}
+
+
+.login:hover
+{
+  background-color: rgb(53, 53, 53);
+  color: rgb(244, 111, 200);
+}
+
+.login:active
+{
+  background-color: rgb(255, 17, 17);
+  color: white;
+}
+
+.shape
+{
+  position: absolute;
+  font-size: 12px;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  text-align: center;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.shape:hover
+{
+  font-size: 13px;
+  padding: 9px 17px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.shape:active
+{
+  font-size: 13px;
+  padding: 9px 17px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  text-align: center;
+ 
+}
+
+.submit
+{
+  background-color: green;
+  color: white;
+  
+}
+
+.submit:hover
+{
+  background-color: black;
+  color: white;
+  
+}
+
+.submit:active
+{
+  background-color: rgb(255, 17, 17);
+  color: white;
+
+}
+
+.reset{
+  background-color: white;
+  color: black;
+}
+
+.reset:hover
+{
+  background-color: black;
+  color: white;
+}
+
+.reset:active
+{
+  background-color: rgb(255, 17, 17);
+  color: white;
+  
+}
+
+
+input[type=text], select {
+  width: 100%;
+  padding: 6px 8px;
+  margin: 4px 0;
+  
+  border: none;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+input[type=password], select {
+  width: 100%;
+  padding: 6px 8px;
+  margin: 4px 0;
+  
+  border: none;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
